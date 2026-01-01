@@ -82,6 +82,3 @@ This task helps understand:
 * Basic AWS networking and security group configuration
 
 ---
-
-Would you like me to generate this as a file you can download?
-```
